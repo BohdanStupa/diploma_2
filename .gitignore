@@ -1,0 +1,12 @@
+__pycache__
+figs
+data
+build
+dist
+problems/MNIST
+*npz
+*pt
+*egg-info
+*data
+.DS_Store
+*egg-info
